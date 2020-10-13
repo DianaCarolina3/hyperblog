@@ -10,4 +10,6 @@ Soy Dianita una persona que trabaja en este proyecto open source y nacion en int
 
 master 1
 
+master 2
+
 esta es MI historia
