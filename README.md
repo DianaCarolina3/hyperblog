@@ -6,7 +6,7 @@ un blog increible para el curso de Git y GitHub de Platzi
 
 > - [Curso profesional de Git y GitHub](https://platzi.com/clases/git-github/ "Curso profesional de Git y GitHub")
 
-##En este curso aprendí de todo como:
+## En este curso aprendí de todo como:
 
 - Todos los comandos de Git
 - El flujo de trabajo de GitHub
