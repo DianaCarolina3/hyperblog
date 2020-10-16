@@ -13,5 +13,6 @@ un blog increible para el curso de Git y GitHub de Platzi
 - El amor por la pruebas practicas
 - trucos de Freddier
 - Lo necesario que es aprender de Git y GitHub
+- Creado por Diana Carolina
 
 Y como final debo concluir que **aprendi muchas cosas** en este curso, al igual que con Platzi.**[Curso profesional de Git y GitHub](https://platzi.com/clases/git-github/ "Curso profesional de Git y GitHub")**.
